@@ -1,0 +1,5 @@
+This file is about the datasets on HMDD v3.2. 
+It includes the 8968 associations between 374 diseases and 788 miRNAs
+the names of 374 disease and 788 miRNAs
+the three kinds of miRNA-miRNA similarity matrices
+one kind of disease-disease similarity matrix
