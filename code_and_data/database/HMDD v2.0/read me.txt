@@ -1,0 +1,4 @@
+This is a group datasets based on HMDD 2.0
+
+It includes 6088 associations between 550 miRNAs and 328 diseases
+it includes three types of miRNA similarity and 1 type disease similarity
