@@ -1,7 +1,7 @@
-Variational Graph Auto-Encoders and matrix factorization
+Variational Graph Auto-Encoders with matrix factorization
 ============
 
-This is a TensorFlow implementation of the (Variational) Graph Auto-Encoder and matrix factorization model for miRNA-disease associations prediction as described in our paper:
+This is a TensorFlow implementation of the Variational Graph Auto-Encoder with matrix factorization model for miRNA-disease associations prediction as described in our paper:
 
 “Predicting miRNA-Disease Associations Based on Multi-View Variational Graph Auto-Encoder with Matrix Factorization”
 
